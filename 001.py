@@ -5,4 +5,7 @@ f002.start()
 bot.hotkey('win','r')
 bot.typewrite('cmd')
 bot.press('enter')
+f002.work()
 f002.finish()
+
+
